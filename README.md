@@ -23,9 +23,18 @@ that serve that community.
 ## Reading it in three lights
 
 ORG's members are voting on three proposed looks for the website: Night Sanctuary, Prism Light, and
-Stone & Lapis. Until they decide, this AstroLog offers all three. Choose one from the swatches in
-the header; your choice carries over to the entry portal. The marbled ink behind each page moves
-with your pointer, and you can pause it.
+Stone & Lapis. Until they decide, this AstroLog offers all three, plus *Follow the day*, which moves
+through them from morning to night. The first time you visit, you choose how you arrive: a light,
+how much the marbled ink behind each page moves (still, gentle, or vivid), and whether you'd like
+more contrast. Change any of it from the swatches and the light & motion drawer in the header; your
+choice carries over to the entry portal.
+
+## Finding your way
+
+- **Press `/`** on any page (or Ctrl K, ⌘K on a Mac) to search every entry, write-up, person and
+  page. On a phone, tap the magnifier in the header. The same search works on the entry portal.
+- **Press `?`**, or open the light & motion drawer, for the welcome guide: what this site is, how
+  the changelog differs from the library, and where ORG's community talks.
 
 ## Where things live
 
@@ -35,6 +44,8 @@ with your pointer, and you can pause it.
 | [ORG on GitHub](https://github.com/Octagon-Religious-Research-Group-ORG) | The organization profile, code, and brand assets |
 | [Entry portal](https://octagon-religious-research-group-org.github.io/) | The nine doors, and the way into this AstroLog |
 | [Design directions](https://org-new-look.netlify.app/) | The three proposed looks, offered for a vote |
+| [ORG's Telegram group](https://t.me/+ccL8NUffhuU0ZGJh) | Where members talk, linked from orgspirituality.org's Community page |
+| [drasticstatic ORG lab](https://drasticstatic.github.io/O-R-G-astro-public/) | Christopher's lab changelog and portfolio: the dApp preview and other work for ORG |
 
 ## How it's kept
 
