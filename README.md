@@ -27,7 +27,7 @@ that serve that community.
 
 ## Reading it in three lights
 
-Night Sanctuary, Prism Light, and Stone & Lapis began as Renan Teixeira's design proposal for
+Night Sanctuary, Prism Light, and Stone & Lapis began as Renan T's design proposal for
 orgspirituality.org, the spark for ORG's new builds. The proposal is now
 [kept as history](https://octagon-religious-research-group-org.github.io/changelog-astro-public/three-directions),
 and its three looks live on here as lights, plus *Follow the day*, which moves through them from
@@ -61,7 +61,7 @@ rather than adding web3 onto the current one. Have a look around, then share wha
 | [orgspirituality.org](https://orgspirituality.org) | The official site: beliefs, community, research, and offerings |
 | [ORG on GitHub](https://github.com/Octagon-Religious-Research-Group-ORG) | The organization profile, code, and brand assets |
 | [Entry portal](https://octagon-religious-research-group-org.github.io/) | The nine doors, and the way into this AstroLog |
-| [Three directions, living together](https://octagon-religious-research-group-org.github.io/changelog-astro-public/three-directions) | Renan Teixeira's design proposal that started the new builds, kept as history |
+| [Three directions, living together](https://octagon-religious-research-group-org.github.io/changelog-astro-public/three-directions) | Renan T's design proposal that started the new builds, kept as history |
 | [The ledger](https://octagon-religious-research-group-org.github.io/changelog-astro-public/ledger) | Every public change to ORG's code, in plain words |
 | [ORG's Telegram group](https://t.me/+ccL8NUffhuU0ZGJh) | Where members talk, linked from orgspirituality.org's Community page |
 | [drasticstatic ORG lab](https://drasticstatic.github.io/O-R-G-astro-public/) | Christopher's lab changelog and portfolio: where the new builds take shape |
