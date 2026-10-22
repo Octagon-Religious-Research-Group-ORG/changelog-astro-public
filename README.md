@@ -45,7 +45,7 @@ later, a small count in the header shows what's new since your last visit.
 The question now is how these new builds come together with the main site,
 [orgspirituality.org](https://orgspirituality.org). The likely direction is a new, web3-ready site
 rather than adding web3 onto the current one. Have a look around, then share what you think in
-[ORG's Telegram group](https://t.me/+ccL8NUffhuU0ZGJh).
+[ORG's public chat on Telegram](https://t.me/ORG_Spirituality).
 
 ## Finding your way
 
@@ -63,7 +63,8 @@ rather than adding web3 onto the current one. Have a look around, then share wha
 | [Entry portal](https://octagon-religious-research-group-org.github.io/) | The nine doors, and the way into this AstroLog |
 | [Three directions, living together](https://octagon-religious-research-group-org.github.io/changelog-astro-public/three-directions) | Renan T's design proposal that started the new builds, kept as history |
 | [The ledger](https://octagon-religious-research-group-org.github.io/changelog-astro-public/ledger) | Every public change to ORG's code, in plain words |
-| [ORG's Telegram group](https://t.me/+ccL8NUffhuU0ZGJh) | Where members talk, linked from orgspirituality.org's Community page |
+| [ORG (Public) on Telegram](https://t.me/ORG_Spirituality) | ORG's public chat, open to anyone. Events and ceremonies and the members' private groups are in the [community window](https://octagon-religious-research-group-org.github.io/#community) |
+| [ORG overview (document)](https://www.icloud.com/pages/0438mnIFrZCE0vC6kuGrVjfBQ#ORG) | ORG's own overview, shared on iCloud |
 | [drasticstatic ORG lab](https://drasticstatic.github.io/O-R-G-astro-public/) | Christopher's lab changelog and portfolio: where the new builds take shape |
 | [O-R-G dApp preview](https://drasticstatic.github.io/O-R-G-dapp-public-preview/) | A web3-ready preview from the lab |
 
@@ -75,6 +76,12 @@ repository and published here automatically on every change; the library page
 explains the process and how to add an entry. ORG's octagon mark is used from the official
 [brand-assets](https://github.com/Octagon-Religious-Research-Group-ORG/brand-assets) files,
 unmodified.
+
+## License
+
+- 💻 **Code:** MIT, see [`LICENSE`](LICENSE)
+- 📝 **Written content** (the changelog and library prose, READMEs): CC BY-SA 4.0, see [`LICENSE-CONTENT`](LICENSE-CONTENT)
+- 🏷️ **The name ORG, the octagon and ORG's other marks:** not covered by either license, see [`TRADEMARKS.md`](TRADEMARKS.md) and the [brand guidelines](https://github.com/Octagon-Religious-Research-Group-ORG/brand-assets)
 
 Tended by Christopher ([@drasticstatic](https://github.com/drasticstatic)) with Alfred, for ORG.
 
