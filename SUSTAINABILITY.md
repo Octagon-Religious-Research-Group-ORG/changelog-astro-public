@@ -32,16 +32,24 @@ access tokens) and note it here. Before it passes, make a new classic token with
 `PUBLIC_REPO_TOKEN`, then run the workflow by hand once (Actions → Sync Public AstroLog → Run
 workflow) and check that the ledger's newest day is today.
 
-### 🔍 An optional read-only `LEDGER_TOKEN`
+### 🔍 The read-only `LEDGER_TOKEN`
 
 The ledger shows ORG's private work masked (the repository, the day and the kind of change, never
 its words). It reads those private repositories with a `LEDGER_TOKEN` secret when one is set, else
 with `PUBLIC_REPO_TOKEN`. A fine-grained token with read-only **Contents** access to ORG's private
 repositories is the safer choice: the ledger then never needs the write-capable token.
 
-*What to do:* nothing is required. To separate the two, create the read-only token, add it as
-`LEDGER_TOKEN` on `changelog-astro`, and run the workflow once. If neither can read a repository,
-its masked rows carry over from the committed snapshot and the page keeps its shape.
+**Set since 2026-10-26:**
+- **The token:** the fine-grained `ledger-read-org`, resource owner
+  `Octagon-Religious-Research-Group-ORG`.
+- **Reach:** all of ORG's repositories, with read-only Contents.
+- **⚠️ It expires about 2027-10-27.** ORG's organization settings cap tokens at 366 days, unlike the
+  other orgs, whose tokens don't expire. Put a reminder a week before.
+
+*To renew it:* make a new read-only token the same way. Set it as `LEDGER_TOKEN` on `changelog-astro`
+(`pbpaste | gh secret set LEDGER_TOKEN -R Octagon-Religious-Research-Group-ORG/changelog-astro`), and
+run the workflow once. If no token can read a repository, its masked rows carry over from the
+committed snapshot and the page keeps its shape.
 
 ### 🗓️ The daily ledger rebuild
 
@@ -49,7 +57,8 @@ The [ledger](https://octagon-religious-research-group-org.github.io/changelog-as
 lists every public change in plain words. So it stays fresh on days nothing else changes, the
 publishing workflow also runs **every day at 10:17 UTC** (`cron: "17 10 * * *"`). The lab rebuilds at
 10:41 UTC, which also redraws its map from this AstroLog's `map.json`. Each uses a few minutes of
-Actions time a day.
+Actions time a day. The workflow builds on **Node 24** (since 2026-10-26): Astro 7.4 needs Node
+22.23.4 or newer, and a bare `22` resolved to 22.23.3.
 
 *What to do:* if the ledger's newest day looks old, open the workflow's run history. A failed
 scheduled run usually means the token above, or GitHub's API having a bad moment (the build then
