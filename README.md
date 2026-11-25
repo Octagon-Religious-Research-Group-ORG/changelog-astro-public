@@ -45,7 +45,7 @@ later, a small count in the header shows what's new since your last visit.
 The question now is how these new builds come together with the main site,
 [orgspirituality.org](https://orgspirituality.org). The likely direction is a new, web3-ready site
 rather than adding web3 onto the current one. Have a look around, then share what you think in
-[ORG's public chat on Telegram](https://t.me/ORG_Spirituality).
+[ORG's public chat on Telegram](https://t.me/ORG_Spirituality) or [ORG's Discord](https://discord.gg/DkNFvCvVKA).
 
 ## Finding your way
 
@@ -64,6 +64,7 @@ rather than adding web3 onto the current one. Have a look around, then share wha
 | [Three directions, living together](https://octagon-religious-research-group-org.github.io/changelog-astro-public/three-directions) | Renan T's design proposal that started the new builds, kept as history |
 | [The ledger](https://octagon-religious-research-group-org.github.io/changelog-astro-public/ledger) | Every public change to ORG's code, in plain words |
 | [ORG (Public) on Telegram](https://t.me/ORG_Spirituality) | ORG's public chat, open to anyone. Events and ceremonies and the members' private groups are in the [community window](https://octagon-religious-research-group-org.github.io/#community) |
+| [ORG on Discord](https://discord.gg/DkNFvCvVKA) | ORG's Discord server, open to anyone. Start in ✅┃start-here |
 | [ORG overview (document)](https://www.icloud.com/pages/0438mnIFrZCE0vC6kuGrVjfBQ#ORG) | ORG's own overview, shared on iCloud |
 | [drasticstatic ORG lab](https://drasticstatic.github.io/O-R-G-astro-public/) | Christopher's lab changelog and portfolio: where the new builds take shape |
 | [O-R-G dApp preview](https://drasticstatic.github.io/O-R-G-dapp-public-preview/) | A web3-ready preview from the lab |
